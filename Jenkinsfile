@@ -1,4 +1,5 @@
 pipeline {
+     tools
     agent any
     stages {
         stage('checkout') {
